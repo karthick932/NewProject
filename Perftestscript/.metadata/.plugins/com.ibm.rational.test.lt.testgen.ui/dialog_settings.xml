@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewTestFromRecordingWizard">
+		<item value="NONE" key="encryptionLevel"/>
+		<item value="CREATE_NEW_RECSESSION" key="method"/>
+		<item value="false" key="advancedRecording"/>
+		<item value="false" key="customDcValue"/>
+		<list key="testGenerators">
+			<item value="com.ibm.rational.test.lt.testgen.http2.httpTestGenerator"/>
+		</list>
+	</section>
+	<section name="TestGenerationWizard">
+		<item value="/Perftestproject/Tests/Perftestscript.recsession" key="last"/>
+		<section name="/Perftestproject/Tests/Perftestscript.recsession">
+			<section name="Local">
+			</section>
+		</section>
+	</section>
+</section>

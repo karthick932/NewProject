@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Program Files\HCL\DevOpsTest\jdk" version="1.8.0_382">
+<bootpath>
+<entry path="C:\Program Files\HCL\DevOpsTest\jdk\jre\bin\default\jclSC180\vm.jar"/>
+<entry path="C:\Program Files\HCL\DevOpsTest\jdk\jre\lib\se-service.jar"/>
+<entry path="C:\Program Files\HCL\DevOpsTest\jdk\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\HCL\DevOpsTest\jdk\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\HCL\DevOpsTest\jdk\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\HCL\DevOpsTest\jdk\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\HCL\DevOpsTest\jdk\jre\lib\jce.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\HCL\DevOpsTest\jdk\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\HCL\DevOpsTest\jdk\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

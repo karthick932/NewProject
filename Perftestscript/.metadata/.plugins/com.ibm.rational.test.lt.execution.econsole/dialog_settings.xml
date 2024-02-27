@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.ibm.rational.test.lt.execution.econsole.filter.ConsoleFilterDefinition">
+	</section>
+	<section name="com.ibm.rational.test.lt.execution.econsole.ConsoleSettingsDefinition">
+	</section>
+	<section name="com.ibm.rational.test.lt.execution.econsole.UIPersistenceDefinition">
+		<item value="GROUP_BY_NONE" key="P_UI_GROUP_BY_MODE"/>
+		<item value="250" key="P_UI_COLUMN_WIDTH_MESSAGE"/>
+		<item value="180" key="P_UI_COLUMN_WIDTH_DATE"/>
+		<item value="128" key="P_UI_SORT_DIRECTION"/>
+		<item value="150" key="P_UI_COLUMN_WIDTH_TEST"/>
+		<item value="150" key="P_UI_COLUMN_WIDTH_AGENT"/>
+		<item value="1" key="P_UI_SORT_COLUMN_ID"/>
+		<item value="150" key="P_UI_COLUMN_WIDTH_TYPE"/>
+		<item value="150" key="P_UI_COLUMN_WIDTH_USERGROUP"/>
+		<item value="150" key="P_UI_COLUMN_WIDTH_USER"/>
+	</section>
+</section>

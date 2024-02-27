@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editableResource createdTimestamp="1709020551343"
+    createdUser="karthick_ba" id="632f0cfb:18de98f291f:-7ebd"
+    type="operation_resource" updatedTimestamp="1709020732893"
+    updatedUser="karthick_ba" version="1.0">
+    <loggingConfiguration debug="false" resultWriterLoggingLevel="FULL" writeStubEventsToDB="false"/>
+    <resourceConfig avgTime="0" color="124,199,255"
+        dependencies="632f0cfb:18de98f291f:-7eb6,632f0cfb:18de98f291f:-7e88"
+        invokeDynamicFormatterID="http.text.message.type"
+        invokeFormatterID="HTTP_Message"
+        invokeTransportID="632f0cfb:18de98f291f:-7eb6" maxTime="0"
+        mepEndSchemaID="632f0cfb:18de98f291f:-7e88"
+        mepEndSchemaNodeFormatter="doc_lit"
+        mepEndSchemaroot="addition___OUTPUT___additionResponse"
+        mepEndUsed="true" mepStartSchemaID="632f0cfb:18de98f291f:-7e88"
+        mepStartSchemaNodeFormatter="doc_lit"
+        mepStartSchemaroot="addition___INPUT___addition"
+        mepType="IN_OUT" minTime="0">
+        <invokeHeaderNode name="" type="12" version="1.2">
+            <fieldActionGroup>
+                <fieldAction enabled="false" type="1">
+                    <fieldAction anyOrder="false" enabled="false"
+                        ignoreExtra="false" ignoreNonPresent="false" type="100"/>
+                </fieldAction>
+            </fieldActionGroup>
+            <_c meTy="String" name="MessageType" type="7"
+                value="http.text.message.type" version="1.2">
+                <fieldActionGroup>
+                    <fieldAction type="0">
+                        <fieldAction exp="http.text.message.type" type="0"/>
+                    </fieldAction>
+                </fieldActionGroup>
+            </_c>
+            <_c meTy="String" name="Method" type="7" value="POST" version="1.2">
+                <fieldActionGroup>
+                    <fieldAction type="0">
+                        <fieldAction exp="POST" type="0"/>
+                    </fieldAction>
+                </fieldActionGroup>
+            </_c>
+            <_c meTy="String" name="URL" type="7" value="/addNumbers" version="1.2">
+                <fieldActionGroup>
+                    <fieldAction type="0">
+                        <fieldAction exp="/addNumbers" type="0"/>
+                    </fieldAction>
+                </fieldActionGroup>
+            </_c>
+            <_c meTy="Message" name="httpDetails" type="12" version="1.2">
+                <fieldActionGroup>
+                    <fieldAction enabled="false" type="1">
+                        <fieldAction anyOrder="false" enabled="false"
+                            ignoreExtra="false" ignoreNonPresent="false" type="100"/>
+                    </fieldAction>
+                </fieldActionGroup>
+                <_c meTy="String" name="Version" type="7" value="1.1" version="1.2">
+                    <fieldActionGroup>
+                        <fieldAction type="0">
+                            <fieldAction exp="1.1" type="0"/>
+                        </fieldAction>
+                    </fieldActionGroup>
+                </_c>
+                <_c meTy="Message" name="httpHeaders" type="12" version="1.2">
+                    <fieldActionGroup>
+                        <fieldAction enabled="false" type="1">
+                            <fieldAction anyOrder="false"
+                                enabled="false" ignoreExtra="false"
+                                ignoreNonPresent="false" type="100"/>
+                        </fieldAction>
+                    </fieldActionGroup>
+                </_c>
+                <_c meTy="Boolean" name="followRedirects" type="8"
+                    value="true" version="1.2">
+                    <fieldActionGroup>
+                        <fieldAction type="0">
+                            <fieldAction exp="true" type="0"/>
+                        </fieldAction>
+                    </fieldActionGroup>
+                </_c>
+            </_c>
+        </invokeHeaderNode>
+        <stubHeaderConfig/>
+    </resourceConfig>
+</editableResource>

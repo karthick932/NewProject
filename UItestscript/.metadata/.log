@@ -1,0 +1,32 @@
+!SESSION 2024-02-27 13:00:25.830 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=1.8.0_382-b05
+JRE 1.8.0 Windows 8 amd64-64-Bit Compressed References 20230810_742 (JIT enabled, AOT enabled)
+OpenJ9   - d12d10c9e
+OMR      - e80bff83b
+JCL      - c4d2c2bafb based on jdk8u382-b05
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product com.ibm.rational.rft.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.ibm.rational.rft.product.ide
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-27 13:01:47.646
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\karthick_ba'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.ibm.rational.test.lt.testgen.core3 1 0 2024-02-27 13:08:02.219
+!MESSAGE RPTTI0001 Test generation started at Tue Feb 27 13:08:02 IST 2024 -- input:  UITestscript.recsession
+
+!ENTRY com.ibm.rational.test.lt.testgen.core3 1 0 2024-02-27 13:08:05.857
+!MESSAGE RPTTI0002 Test generation completed at Tue Feb 27 13:08:05 IST 2024 -- output:  UITestscript.testsuite
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-02-27 13:09:46.688
+!MESSAGE RPTR0000W ALOHA STOP for null
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-02-27 13:09:46.692
+!MESSAGE RPTR0000W XMLAlohaTypedEventLoader setStatus HISTORY_COMPLETE for null
+
+!ENTRY com.ibm.rational.test.lt.execution 1 0 2024-02-27 13:09:49.771
+!MESSAGE RPTJ1000E Cleaning working directory C:\Users\karthick_ba\AppData\Local\Temp\rpt.UITestscript.8603794698434410151

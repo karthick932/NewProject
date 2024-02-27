@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="Http2TestGeneratorWizard">
+		<list key="lastFilteredDomains">
+			<item value="aspectran.com"/>
+			<item value="fonts.googleapis.com"/>
+			<item value="accounts.google.com"/>
+			<item value="content-autofill.googleapis.com"/>
+			<item value="fonts.gstatic.com"/>
+			<item value="www.googletagmanager.com"/>
+			<item value="optimizationguide-pa.googleapis.com"/>
+			<item value="www.google-analytics.com"/>
+		</list>
+	</section>
+</section>
