@@ -35,7 +35,7 @@
       "globalProperties" : {
         "randomDistribution" : "false",
         "duplicatesAllowed" : "true",
-        "blankPercentage" : 88
+        "blankPercentage" : 89
       },
       "configurations" : [ {
         "name" : "Default",
