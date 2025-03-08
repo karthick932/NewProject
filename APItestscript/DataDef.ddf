@@ -13,7 +13,7 @@
       "globalProperties" : {
         "randomDistribution" : "false",
         "duplicatesAllowed" : "true",
-        "blankPercentage" : null
+        "blankPercentage" : 44
       },
       "configurations" : [ {
         "name" : "Default",
@@ -21,7 +21,7 @@
         "properties" : {
           "title" : "false",
           "firstName" : "true",
-          "lastName" : "true"
+          "lastName" : "false"
         }
       } ]
     }
@@ -35,7 +35,7 @@
       "globalProperties" : {
         "randomDistribution" : "false",
         "duplicatesAllowed" : "true",
-        "blankPercentage" : "0"
+        "blankPercentage" : 88
       },
       "configurations" : [ {
         "name" : "Default",
