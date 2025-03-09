@@ -1,0 +1,18 @@
+{
+  "name" : "erewwrew",
+  "version" : "0.0.1",
+  "categoryId" : "76f27f4e-0c6d-49d1-b27f-4e0c6d49d176",
+  "parentGenerator" : "Function",
+  "globalProperties" : {
+    "randomDistribution" : "false",
+    "duplicatesAllowed" : "true",
+    "blankPercentage" : "0"
+  },
+  "configurations" : [ {
+    "name" : "Default",
+    "weightage" : 100.0,
+    "properties" : {
+      "function" : ""
+    }
+  } ]
+}
