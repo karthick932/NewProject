@@ -1,0 +1,34 @@
+{
+  "name" : "wewr",
+  "version" : "0.0.1",
+  "categoryId" : "02c3de95-fec7-4bb5-83de-95fec73bb534",
+  "parentGenerator" : "DateTime",
+  "globalProperties" : {
+    "randomDistribution" : "false",
+    "duplicatesAllowed" : "true",
+    "blankPercentage" : "0"
+  },
+  "configurations" : [ {
+    "name" : "Default",
+    "weightage" : 100.0,
+    "properties" : {
+      "pattern" : "MM/dd/yyyy",
+      "limitDates" : {
+        "from" : 1741511756,
+        "to" : 1773047756,
+        "exclude" : [ ],
+        "specificDatesToExclude" : ""
+      },
+      "limitTimes" : {
+        "from" : "12:00:00 am",
+        "to" : "11:59:59 pm"
+      },
+      "offset" : {
+        "from" : null,
+        "by" : "",
+        "value" : null,
+        "unit" : ""
+      }
+    }
+  } ]
+}
